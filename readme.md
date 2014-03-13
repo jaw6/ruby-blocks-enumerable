@@ -1,0 +1,1 @@
+The contents of this repository have been re-organized [here](https://github.com/jaw6/railsmn-talks)
